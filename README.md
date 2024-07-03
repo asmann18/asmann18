@@ -3,7 +3,7 @@
 </div>
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/asiman-kasimzadeh-997188244/" target="https://www.linkedin.com/in/asiman-kasimzadeh-997188244/">
+  <a href="https://www.linkedin.com/in/asiman-qasimzade-997188244/" target="https://www.linkedin.com/in/asiman-qasimzade-997188244/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/asmannn18/" target="https://www.instagram.com/asmannn18/">
